@@ -1,10 +1,12 @@
 # Privacy Policy for CrimVault
 
-**Last updated: April 18, 2026**
+**Last updated:** April 18, 2026
 
-CrimVault is a Criminology Licensure Examination review app. This Privacy Policy explains what information the app stores, how it is used, and what choices users have.
+CrimVault is a criminology review app built to help users prepare for the Criminology Licensure Examination.
 
-This policy is based on the current app source code. It is provided for app publication and user transparency, but it is not legal advice.
+This Privacy Policy explains what information the app stores, how that information is used, and what choices users have. Based on the current app implementation, CrimVault is designed to keep user data locally on the device and does not currently use a custom developer-operated backend server.
+
+This Privacy Policy is provided for transparency and publication purposes and does not constitute legal advice.
 
 ## 1. Information the App Stores
 
@@ -100,9 +102,12 @@ This Privacy Policy may be updated from time to time. When it changes, the "Last
 
 ## 11. Contact
 
-For privacy questions, contact:
+If you have any questions or concerns about this Privacy Policy, you may contact:
 
+**CrimVault Support**  
 **Email:** crimvault@gmail.com
+
+Please include enough information in your message so we can better assist you.
 
 ## 12. Disclaimer
 
