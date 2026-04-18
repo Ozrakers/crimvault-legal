@@ -8,7 +8,7 @@ This Privacy Policy explains what information the app stores, how that informati
 
 This Privacy Policy is provided for transparency and publication purposes and does not constitute legal advice.
 
-## 1. Information the App Stores
+## 1. Information CrimVault Stores
 
 CrimVault is designed to keep review data on the user's device. The app does not include a custom backend server in the current repository.
 
